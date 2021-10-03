@@ -1,0 +1,9 @@
+body {
+  padding-top: 56px;
+}
+.parsley-errors-list{
+	list-style-type: none;
+    padding-left: 0px;
+    font-size: 13px;
+    color: #f30000;
+}
